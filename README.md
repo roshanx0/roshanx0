@@ -1,27 +1,23 @@
-
-
-![My card name](https://cardivo.vercel.app/api?name=ROSHAN&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![Profile Card](https://cardivo.vercel.app/api?name=ROSHAN&description=Full-Stack%20Dev%20%7C%20Blockchain%20Enthusiast&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=100&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=roshanx0&pattern=leaf&colorPattern=%23eaeaea)
 
 <h1 align="center">Hi 👋, I'm Roshan</h1>
+<h3 align="center">A passionate developer exploring the full-stack world</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
+## 🚀 About Me
+- 💻 Full-Stack Developer (React + Node.js)
+- 🔗 Blockchain enthusiast
+- 🌱 Currently mastering **TypeScript and Web3**
+- 🏗️ Building decentralized applications
+- ❤️ Open source contributor
 
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-- 🌱 I’m currently learning **js**
-
-- 🤝 I’m looking for help with 
-
-- 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20Roshan%20Bro)
-
-- 💬 Ask me about my future projects 👽
-
-
-
-<!--## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>-->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_roshan_p_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://Wa.me/+917736622139?text=Hii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
-
-</p>
+## 📫 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_roshan_p_r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mroshanhehe)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshanx0)
 
