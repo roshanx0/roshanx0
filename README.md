@@ -7,7 +7,7 @@
 - 💻 Full-Stack Developer (React + Node.js)
 - 🔗 Blockchain enthusiast
 - 🌱 Currently mastering **TypeScript and Web3**
-- 🏗️ Building decentralized applications
+- 🏗️ Building  applications
 - ❤️ Open source contributor
 
 ## 🛠 Tech Stack
