@@ -1,4 +1,4 @@
-![Profile Card](https://cardivo.vercel.app/api?name=ROSHAN&description=Full-Stack%20Dev%20%7C%20Softwware%20Development&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=100&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=roshanx0&pattern=leaf&colorPattern=%23eaeaea)
+![Profile Card](https://cardivo.vercel.app/api?name=ROSHAN&description=Full-Stack%20Dev%20%7C%20Software%20Development&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=100&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=roshanx0&pattern=leaf&colorPattern=%23eaeaea)
 
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 
